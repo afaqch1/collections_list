@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\collections_list\collections_list\bin\Debug\netcoreapp3.1\collections_list.exe
+C:\Users\Techverx\source\repos\collections_list\collections_list\bin\Debug\netcoreapp3.1\collections_list.deps.json
+C:\Users\Techverx\source\repos\collections_list\collections_list\bin\Debug\netcoreapp3.1\collections_list.runtimeconfig.json
+C:\Users\Techverx\source\repos\collections_list\collections_list\bin\Debug\netcoreapp3.1\collections_list.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\collections_list\collections_list\bin\Debug\netcoreapp3.1\collections_list.dll
+C:\Users\Techverx\source\repos\collections_list\collections_list\bin\Debug\netcoreapp3.1\collections_list.pdb
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.dll
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.pdb
+C:\Users\Techverx\source\repos\collections_list\collections_list\obj\Debug\netcoreapp3.1\collections_list.genruntimeconfig.cache
